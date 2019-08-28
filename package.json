@@ -1,0 +1,12 @@
+{
+  "name": "botv2",
+  "version": "1.0.0",
+  "description": "Screen sharing bot discord",
+  "main": "main.js",
+  "repository": "https://github.com/murlocarus/screen-sharing-bot.git",
+  "author": "murlocarus <murlocarus@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
